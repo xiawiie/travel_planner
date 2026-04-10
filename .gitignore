@@ -1,0 +1,30 @@
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+.omx/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Node
+node_modules/
+dist/
+build/
+
+# Env files
+.env
+.env.*
+
+# Logs
+*.log
